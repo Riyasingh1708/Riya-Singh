@@ -1,4 +1,5 @@
-Calculator
+#Calculator:-
+
 📋 Description
 
 A simple GUI-based calculator to perform basic arithmetic operations using Python and Tkinter.
@@ -12,7 +13,7 @@ Clear display button
 User-friendly interface
 
 
-🔐 Password Generator
+#Password Generator:-
 
 📋 Description
 
@@ -31,7 +32,7 @@ Simple Tkinter-based interface
 
 
 
-Contact Book
+#Contact Book:-
 
 📋 Description
 
