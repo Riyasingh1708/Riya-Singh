@@ -13,7 +13,7 @@ Clear display button
 User-friendly interface
 
 
-Rock–Paper–Scissors (Python)
+#Rock–Paper–Scissors (Python)
 
 📋 Description
 A Python GUI game where you play Rock–Paper–Scissors against the computer. Choose your move, see the computer’s random choice, and instantly find out who wins—perfect for quick fun and practicing basic game logic.
