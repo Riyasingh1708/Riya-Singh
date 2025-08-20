@@ -13,20 +13,26 @@ Clear display button
 User-friendly interface
 
 
-#Password Generator:-
+Rock–Paper–Scissors (Python)
 
 📋 Description
-
-A Python GUI app that generates strong and random passwords based on user preferences.
+A Python GUI game where you play Rock–Paper–Scissors against the computer. Choose your move, see the computer’s random choice, and instantly find out who wins—perfect for quick fun and practicing basic game logic.
 
 🚀 Features
 
-Customizable password length
+Player vs. Computer gameplay
 
-Option to include uppercase, lowercase, digits, and special characters
+Instant result display (Win/Lose/Draw)
 
-Copy password to clipboard
+Score tracking for both player and computer
 
+“Best of N” mode (configurable rounds)
+
+Reset game button to start fresh
+
+Simple, lightweight GUI (built with Tkinter)
+
+Clean, beginner-friendly code structure (logic separated from UI)
 Simple Tkinter-based interface
 
 
